@@ -1,0 +1,96 @@
+export const rec_channels = [
+{
+    "id":1,
+    "avatar":"https://robohash.org/velitconsequaturqui.png?size=50x50&set=set1",
+    "username":"nlanston0",
+    "game_name":"Job",
+    "rank":67
+},
+{
+    "id":2,
+    "avatar":"https://robohash.org/sedautlabore.png?size=50x50&set=set1",
+    "username":"lemer1","game_name":"Voltsillam",
+    "rank":90
+},
+{
+    "id":3,
+    "avatar":"https://robohash.org/reprehenderitteneturcorporis.png?size=50x50&set=set1",
+    "username":"bbonnaire2",
+    "game_name":"Rank",
+    "rank":26
+},
+{
+    "id":4,
+    "avatar":"https://robohash.org/nostrumnonanimi.png?size=50x50&set=set1",
+    "username":"dmineghelli3","game_name":"Wrapsafe",
+    "rank":85
+},
+{
+    "id":5,
+    "avatar":"https://robohash.org/laborumsaepeest.png?size=50x50&set=set1",
+    "username":"lmckew4",
+    "game_name":"Trippledex",
+    "rank":16
+},
+{
+    "id":6,
+    "avatar":"https://robohash.org/quiavoluptateaut.png?size=50x50&set=set1",
+    "username":"cmacgill5",
+    "game_name":"Otcom",
+    "rank":12
+},
+{
+    "id":7,
+    "avatar":"https://robohash.org/temporadoloremqui.png?size=50x50&set=set1",
+    "username":"gscutter6",
+    "game_name":"Overhold",
+    "rank":65
+},
+{
+    "id":8,
+    "avatar":"https://robohash.org/perferendisnisisequi.png?size=50x50&set=set1",
+    "username":"lpatise7",
+    "game_name":"Flowdesk",
+    "rank":100},
+{
+    "id":9,
+    "avatar":"https://robohash.org/eosquiut.png?size=50x50&set=set1",
+    "username":"speres8",
+    "game_name":"Holdlamis",
+    "rank":70
+},
+{
+    "id":10,
+    "avatar":"https://robohash.org/dolordebitisiusto.png?size=50x50&set=set1",
+    "username":"ydaskiewicz9",
+    "game_name":"Voyatouch",
+    "rank":100
+}]
+
+export const top_channels = [
+    {
+        "id":1,
+        "avatar":"https://robohash.org/velitconsequaturqui.png?size=50x50&set=set1",
+        "username":"nlanston0",
+        "game_name":"Job",
+        "rank":67
+    },
+    {
+        "id":2,
+        "avatar":"https://robohash.org/sedautlabore.png?size=50x50&set=set1",
+        "username":"lemer1","game_name":"Voltsillam",
+        "rank":90
+    },
+    {
+        "id":3,
+        "avatar":"https://robohash.org/reprehenderitteneturcorporis.png?size=50x50&set=set1",
+        "username":"bbonnaire2",
+        "game_name":"Rank",
+        "rank":26
+    },
+    {
+        "id":4,
+        "avatar":"https://robohash.org/nostrumnonanimi.png?size=50x50&set=set1",
+        "username":"dmineghelli3","game_name":"Wrapsafe",
+        "rank":85
+    }]
